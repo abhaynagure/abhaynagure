@@ -92,3 +92,12 @@ Aspiring Electronics & Communication Engineer interested in FPGA Design, Embedde
 ---
 
 ⭐ Thanks for visiting my profile!
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=abhaynagure&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhaynagure&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaynagure&layout=compact&theme=github_dark)
