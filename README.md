@@ -48,7 +48,6 @@ https://github.com/abhaynagure/Edge-AI-CNN-Inference-Engine-on-FPGA
 
 - STM32
 - ARM LPC2148
-- Raspberry Pi Pico
 
 ### Programming
 
