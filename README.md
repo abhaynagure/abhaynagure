@@ -147,6 +147,16 @@ File handling and text processing project implemented in **C on Linux**.
 
 <br>
 
+## 📊 Contributions
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=abhaynagure&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="Total Contributions">
+
+</div>
+
+<br>
+
 ## 📫 Connect
 
 <div align="center">
