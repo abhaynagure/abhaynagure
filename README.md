@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br>
 
 ## 🧠 About Me
 
@@ -26,49 +26,45 @@ Focused on building practical hardware-oriented projects and exploring the inter
 - ⚡ Interests: **Embedded Systems · FPGA & Digital Design · Digital VLSI · Industrial Automation · Industrial IoT**
 - 📚 Currently learning **Embedded C, Linux Device Drivers, RTOS, and RTL Design**
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="20" border="0">
 <tr>
 <td align="center" width="33%">
 
-### Languages
+<h3>Languages</h3>
 
-Verilog HDL  
-C / C++  
-MATLAB
-
-</td>
-
-<td align="center" width="33%">
-
-### Hardware / Platforms
-
-STM32  
-ARM LPC2148  
-Siemens PLC
+<img src="https://skillicons.dev/icons?i=verilog,c,cpp,matlab" alt="Languages"><br><br>
+Verilog HDL · C / C++ · MATLAB
 
 </td>
-
 <td align="center" width="33%">
 
-### Tools
+<h3>Hardware / Platforms</h3>
 
-Xilinx Vivado  
-Keil µVision  
-Linux · Git · VS Code
+<img src="https://skillicons.dev/icons?i=arduino" alt="Hardware"><br><br>
+STM32 · ARM LPC2148 · Siemens PLC
+
+</td>
+<td align="center" width="33%">
+
+<h3>Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,linux" alt="Tools"><br><br>
+Xilinx Vivado · Keil µVision · Git
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 ## 📌 Featured Projects
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="20" border="0">
+
 <tr>
 <td width="50%" valign="top">
 
@@ -80,12 +76,9 @@ CNN inference implemented using **Verilog HDL and FPGA hardware**, targeting low
 
 <br>
 
-<a href="https://github.com/abhaynagure">
-View Repository →
-</a>
+<a href="https://github.com/abhaynagure">View Repository →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🏭 Industrial Automation Internship
@@ -96,12 +89,12 @@ Industrial automation work involving **PLC, Siemens TIA Portal, HMI, OPC-UA, AWS
 
 <br>
 
-<a href="https://github.com/abhaynagure/Industrial-Automation-with-PLC">
-View Repository →
-</a>
+<a href="https://github.com/abhaynagure/Industrial-Automation-with-PLC">View Repository →</a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br></td></tr>
 
 <tr>
 <td width="50%" valign="top">
@@ -114,12 +107,9 @@ UART-based vending machine simulation using **Embedded C and ARM LPC2148**.
 
 <br>
 
-<a href="https://github.com/abhaynagure/LPC2148-UART-Vending-Machine">
-View Repository →
-</a>
+<a href="https://github.com/abhaynagure/LPC2148-UART-Vending-Machine">View Repository →</a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🐧 Word Count & Vertical Histogram
@@ -130,15 +120,14 @@ File handling and text processing project implemented in **C on Linux**.
 
 <br>
 
-<a href="https://github.com/abhaynagure/Word-Count-Vertical-Histogram-C-Linux">
-View Repository →
-</a>
+<a href="https://github.com/abhaynagure/Word-Count-Vertical-Histogram-C-Linux">View Repository →</a>
 
 </td>
 </tr>
+
 </table>
 
----
+<br>
 
 ## 🔥 GitHub Streak
 
@@ -148,7 +137,7 @@ View Repository →
 
 </div>
 
----
+<br>
 
 ## 📫 Connect
 
@@ -157,9 +146,7 @@ View Repository →
 <a href="https://www.linkedin.com/in/abhaynagure/">
 <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Nagure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 &nbsp;
-
 <a href="https://github.com/abhaynagure">
 <img src="https://img.shields.io/badge/GitHub-abhaynagure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
