@@ -44,7 +44,9 @@ Verilog HDL · C / C++ · MATLAB
 
 <h3>Hardware / Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=arduino" alt="Hardware"><br><br>
+<img src="https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"><br>
+<img src="https://img.shields.io/badge/-ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM"><br>
+<img src="https://img.shields.io/badge/-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens"><br><br>
 STM32 · ARM LPC2148 · Siemens PLC
 
 </td>
