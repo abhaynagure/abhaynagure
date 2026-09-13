@@ -4,6 +4,7 @@
 
 <p>
 <a href="https://github.com/abhaynagure"><img src="https://img.shields.io/badge/GitHub-abhaynagure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/github/followers/abhaynagure?style=for-the-badge&color=58A6FF&label=FOLLOWERS" alt="Followers">
 <img src="https://komarev.com/ghpvc/?username=abhaynagure&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
@@ -81,12 +82,9 @@ PLC programming, Siemens TIA Portal, HMI, OPC-UA, AWS IoT, and Node-RED document
 
 <br>
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhaynagure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhay's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaynagure&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaynagure&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
