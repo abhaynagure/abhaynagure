@@ -143,27 +143,6 @@ File handling and text processing project implemented in **C on Linux**.
 </td>
 </tr>
 
-<tr><td colspan="2"><br></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ STM32 Smart Buck Converter Controller
-
-Buck converter controller built on **STM32**, with multi-voltage selection, PWM control visualization, and a TFT display interface. Simulated using **LTspice, Proteus, and Wokwi**.
-
-**Technologies:** STM32 · LTspice · Proteus · Wokwi
-
-<br>
-
-<a href="https://github.com/abhaynagure/STM32_Smart-Buck-Converter-Controller">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-
 </table>
 
 <br>
