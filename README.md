@@ -147,16 +147,6 @@ File handling and text processing project implemented in **C on Linux**.
 
 <br>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaynagure&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
-<br>
-
 ## 📫 Connect
 
 <div align="center">
