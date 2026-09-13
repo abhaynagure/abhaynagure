@@ -50,14 +50,29 @@ STM32 · ARM LPC2148 · Siemens PLC
 </td>
 <td align="center" width="33%">
 
-<h3>Tools</h3>
+<h3>Dev Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,linux" alt="Tools"><br><br>
-Xilinx Vivado · Keil µVision · Git
+VS Code · Git Bash · Linux
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+<h3>EDA & Simulation Tools</h3>
+
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E31837?style=for-the-badge" alt="Xilinx Vivado">
+<img src="https://img.shields.io/badge/Keil%20µVision-002A5C?style=for-the-badge" alt="Keil uVision">
+<img src="https://img.shields.io/badge/Proteus-1B5E20?style=for-the-badge" alt="Proteus">
+<img src="https://img.shields.io/badge/LTspice-0072B2?style=for-the-badge" alt="LTspice">
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-5C2D91?style=for-the-badge" alt="Cadence Virtuoso">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+
+</div>
 
 <br>
 
