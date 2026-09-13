@@ -165,6 +165,10 @@ File handling and text processing project implemented in **C on Linux**.
 <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Nagure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
+<a href="mailto:abhaynagure23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-abhaynagure23-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+&nbsp;
 <a href="https://github.com/abhaynagure">
 <img src="https://img.shields.io/badge/GitHub-abhaynagure-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
