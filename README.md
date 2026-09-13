@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhay+Nagure+%F0%9F%91%8B;Embedded+Systems+%7C+FPGA+%7C+Industrial+Automation;Building+practical+hardware+%26+embedded+systems" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abhay+Nagure+%F0%9F%91%8B;Embedded+Systems+%7C+FPGA+%7C+Industrial+Automation;Building+practical+hardware+%26+embedded+systems" alt="Typing SVG">
 
 <br>
 
